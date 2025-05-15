@@ -54,6 +54,7 @@ git push origin KevinCastellon/Practica1
 
 ## ✅ Tarea Finalizada
 
-¡Buen trabajo! Asegúrate de que todos los archivos estén correctamente subidos y visibles en GitHub.
+Asegúrate de que todos los archivos estén correctamente subidos y visibles en GitHub.
 
 ![Tarea Finalizada](./images/tarea.png)
+![](./images/tarea2.png)
