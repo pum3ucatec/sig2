@@ -92,4 +92,4 @@ git push origin NombreApellido/Practica1
 ---
 ### Tarea finalzada
 
-![tarea 1](.\Imagenes\tarea1.png)
+![](./Imagenes/tarea1.png)
