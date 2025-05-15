@@ -22,7 +22,7 @@ git checkout -b MarisolHerrera/Practica1
 docker-compose up -d
 ```
 
-![Consola](/sig2/practicas/p1-sqlserver/img/IC.png)
+![Consola](/practicas/p1-sqlserver/img/IC.png)
 
 7. Ver contenedores en ejecución
 
@@ -30,7 +30,7 @@ docker-compose up -d
 docker ps
 ```
 
-![Consola](/sig2/practicas/p1-sqlserver/img/VC.png)
+![Consola](/practicas/p1-sqlserver/img/VC.png)
 
 8. Consultar bases de datos, cambiar los datos necesarios, como el nombre y contraseña
 
@@ -44,7 +44,7 @@ docker exec -it container_name /opt/mssql-tools18/bin/sqlcmd -S localhost -U SA 
  docker exec -it sqlserver_db /opt/mssql-tools18/bin/sqlcmd -S localhost -U SA -P "Marisol.2025" -C -d master -Q "SELECT name FROM sys.databases;"
 ```
 
-![Consola](/sig2/practicas/p1-sqlserver/img/CBD.png)
+![Consola](/practicas/p1-sqlserver/img/CBD.png)
 
 9. Revisar los cambios a realizar
 
